@@ -1,0 +1,22 @@
+﻿#BESTPOS-Solution Status,Value,Message
+0,NONE,No Solution
+1,FIXEDPOS,Position Fixed (FIX POSITION)
+2,FIXEDHEIGHT,Position Fixed (FIX HEIGHT/AUTO)
+8,DOPPLER_VELOCITY,Velocity Computed (Doppler)
+16,SINGLE,Single Point Position
+17,PSRDIFF,Pseudorange Differential Solution
+18,WAAS,Solution Calculated (WAAS)
+19,PROPAGATED,Propagated (Kalman Filter)
+20,OMNISTAR,OmniSTAR VBS Position
+32,L1_FLOAT,Floating L1 Ambiguity Solution
+33,IONOFREE_FLOAT,Floating Ionospheric-Free Ambiguity Solution
+34,NARROW_FLOAT,Floating Narrow-Lane Ambiguity Solution
+48,L1_INT,Integer L1 Ambiguity Solution
+50,NARROW_INT,Integer Narrow-Lane Ambiguity Solution
+64,OMNISTAR_HP,OmniSTAR HP Position
+65,OMNISTAR_XP,OmniSTAR XP or G2 Position
+68,PPP_CONVERGING,Converging PPP Solution
+69,PPP,Converged PPP Solution
+70,OPERATIONAL,Within UAL Bounds - Operational
+71,WARNING,Within UAL Bounds - Warning
+72,OUT_OF_BOUNDS,Out of UAL Bounds

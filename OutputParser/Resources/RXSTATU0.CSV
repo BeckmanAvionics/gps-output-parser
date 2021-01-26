@@ -1,0 +1,22 @@
+﻿#RXSTATUS-Receiver Error,Property,0,1
+0,Error: DRAM,OK,Error
+1,Error: Invalid Firmware,OK,Error
+2,Error: ROM,OK,Error
+4,Error: Electronic Serial Number Inaccessible,OK,Error
+5,Error: Authorization Code,OK,Error
+6,Error: Slow ADC Not Initialized,OK,Error
+7,Error: Supply Voltage,OK,Error
+8,Error: Thermometer Not Read,OK,Error
+9,Error: Temperature,OK,Error
+10,Error: MINOS,OK,Error
+11,Error: PLL RF1 Hardware,OK,Error
+12,Error: PLL RF2 Hardware,OK,Error
+13,Error: PLL RF3 Hardware,OK,Error
+14,Error: PLL RF4 Hardware,OK,Error
+15,Error: NVM,OK,Error
+16,Error: Software Resource Limit,OK,Error
+17,Error: Model Not Valid,OK,Error
+20,Remote Logging Started,No,Yes
+21,Error: Export Restriction,OK,Error
+22,Error: Safe Mode,OK,Error
+31,Error: Component Hardware Failure,OK,Error

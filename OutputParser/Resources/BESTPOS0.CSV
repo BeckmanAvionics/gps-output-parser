@@ -1,0 +1,16 @@
+﻿#BESTPOS,Property
+2,Latitude (Degrees)
+3,Longitude (Degrees)
+4,Height (Meters Above Sea Level)
+5,Undulation (Geoid-Ellipsoid Relation)
+6,Datum ID Number
+7,Latitude Standard Deviation (Meters)
+8,Longitude Standard Deviation (Meters)
+9,Height Standard Deviation (Meters)
+10,Base Station ID
+11,Differential Age (Seconds)
+12,Solution Age (Seconds)
+13,Satellites Tracked
+14,Satellites in Solution
+15,Satellites in Solution (With L1/E1/B1)
+16,Satellites in Solution (With Multi-Frequency)

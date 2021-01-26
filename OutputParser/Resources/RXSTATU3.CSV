@@ -1,0 +1,23 @@
+﻿#RXSTATUS-Auxiliary 3,Property,0,1
+1,WCOM1 Buffer Overrun,No Overrun,Overrun
+2,FILE Buffer Overrun,No Overrun,Overrun
+3,Bluetooth Buffer Overrun,No Overrun,Overrun
+8,Wi-Fi Power,Not Powered,Overrun
+9,Wi-Fi Mode,Client Mode,AP Mode
+10,Wi-Fi Conection,Not Established,Established
+10,Wi-Fi Connection (If AP Mode),Not Ready,Ready
+10,Wi-Fi Connection (If Client Mode),Not Connected to AP,Connected to AP
+11,Bluetooth Power,Not Powered,Powered
+12,Bluetooth SPP Pairing,Not Connected,Connected
+13,Cell Radio Power,Not Powered,Powered
+14,SIM Present,Present,Not Present / Unreadable
+14,SIM Readable,Readable,Not Present / Unreadable
+15,SIM Locked,Unlocked,Locked
+16,Cell Roaming,Local,Roaming
+17,Cell Signal Service,Available,Not Available
+21,Error: Dual Antenna Power Failure,OK,Error
+22,Internal Application Status,Application Running,Application Restarted
+24,Error: Dual Card Connectivity,No Error,Communication Lost
+25,VDC Out,OK,VDC Out Over Current
+26,Error: USB Drive,No Error,Error
+27,Error: Interal Storage / Onboard Memory,OK,Error

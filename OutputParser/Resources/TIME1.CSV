@@ -1,0 +1,6 @@
+﻿#TIME-Clock Model Status,Value,Message
+0,VALID,Valid
+1,CONVERGING,Almost Valid (Converging)
+2,ITERATING,Almost Valid (Iterating)
+3,INVALID,Invalid
+4,ERROR,Error

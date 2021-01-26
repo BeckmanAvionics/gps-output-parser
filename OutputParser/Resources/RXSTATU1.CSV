@@ -1,0 +1,23 @@
+﻿#RXSTATUS-Auxiliary 1,Property,0,1
+3,Position Averaging,Off,On
+7,USB Connection Status,Connected,Not Connected
+8,USB1 Buffer Overrun,No Overrun,Overrun
+9,USB2 Buffer Overrun,No Overrun,Overrun
+10,USB3 Buffer Overrun,No Overrun,Overrun
+12,Error: Profile Activation,OK,Error
+14,RF1 Automatic Gain Control Status,OK,Out of Range
+15,RF2 Automatic Gain Control Status,OK,Out of Range
+16,RF3 Automatic Gain Control Status,OK,Out of Range
+17,RF4 Automatic Gain Control Status,OK,Out of Range
+18,Ethernet Status,Connected,Not Connected
+19,ICOM1 Buffer Overrun,No Overrun,Overrun
+20,ICOM2 Buffer Overrun,No Overrun,Overrun
+21,ICOM3 Buffer Overrun,No Overrun,Overrun
+22,NCOM1 Buffer Overrun,No Overrun,Overrun
+23,NCOM2 Buffer Overrun,No Overrun,Overrun
+24,NCOM3 Buffer Overrun,No Overrun,Overrun
+25,XCOM1 Buffer Overrun,No Overrun,Overrun
+26,XCOM2 Buffer Overrun,No Overrun,Overrun
+27,XCOM3 Buffer Overrun,No Overrun,Overrun
+28,RF5 Automatic Gain Control Status,OK,Out of Range
+29,RF6 Automatic Gain Control Status,OK,Out of Range

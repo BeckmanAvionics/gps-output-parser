@@ -1,0 +1,25 @@
+#HDR_STAT-Receiver Status,Property,0,1
+1,Temperature,Within Specifications,Warning
+2,Voltage Supply,OK,Warning
+3,Antenna Power,Powered,Not Powered
+4,Low-Noise Amplifier,OK,Failure
+5,Antenna Open,OK,Open
+6,Antenna Shorted,OK,Shorted
+7,CPU Overload,No Overload,Overload
+8,COM1 Buffer Overrun,No Overrun,Overrun
+9,COM2 Buffer Overrun,No Overrun,Overrun
+10,COM3 Buffer Overrun,No Overrun,Overrun
+11,Link Overrun,No Overrun,Overrun
+13,Auxiliary Transmit Overrun,No Overrun,Overrun
+14,Automatic Gain Control Status,OK,Out of Range
+16,INS Reset,No INS Reset,INS Reset
+18,Almanac / UTC Known,Valid,Invalid
+19,Position Solution,Valid,Invalid
+20,Position Fixed,Not Fixed,Fixed
+21,Clock Steering Status,Enabled,Disabled
+22,Clock Model Flag,Valid,Invalid
+23,External Oscillator Locked,Unlocked,Locked
+24,Software Resource,OK,Warning
+29,Auxiliary 3 Status,No Event,Event
+30,Auxiliary 2 Status,No Event,Event
+31,Auxiliary 1 Status,No Event,Event

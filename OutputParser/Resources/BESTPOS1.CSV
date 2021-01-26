@@ -1,0 +1,15 @@
+﻿#BESTPOS-Solution Status,Value,Message
+0,SOL_COMPUTED,Solution Computed
+1,INSUFFICIENT_OBS,Insufficient Observations
+2,NO_CONVERGENCE,No Convergence
+3,SINGULARITY,Singularity at Parameter Matrix
+4,COV_TRACE,Covariance Trace Exceeds 1000 Meters
+5,TEST_DIST,Test Distance Exceeded
+6,COLD_START,Not Yet Converged from Cold Start
+7,V_H_LIMIT,Height or Velocity Limit Exceeded
+8,VARIANCE,Variance Limit Exceeded
+9,RESIDUALS,Residual Limit Exceeded
+13,INTEGRITY_WARNING,Large Residuals: Position Unreliable
+18,PENDING,Pending
+19,INVALID_FIX,Invalid Fixed Position
+20,UNAUTHORIZED,Position Type Unauthorized

@@ -1,0 +1,10 @@
+﻿#RXSTATUS-Auxiliary 2,Property,0,1
+0,Error: SPI Communication Failure,OK,Error
+1,Error: I-Squared C Communication Failure,OK,Error
+2,COM4 Buffer Overrun,No Overrun,Overrun
+3,COM5 Buffer Overrun,No Overrun,Overrun
+4,COM6 Buffer Overrun,No Overrun,Overrun
+5,COM7 Buffer Overrun,No Overrun,Overrun
+6,COM8 Buffer Overrun,No Overrun,Overrun
+7,COM9 Buffer Overrun,No Overrun,Overrun
+8,COM10 Buffer Overrun,No Overrun,Overrun

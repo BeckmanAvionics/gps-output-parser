@@ -1,0 +1,12 @@
+#HDR_STAT-GPS Time Status,Value,Message
+20,UNKNOWN,Unknown
+60,APPROXIMATE,Approximate
+80,COARSEADJUSTING,Approaching Coarse Precision
+100,COARSE,Coarse Precision
+120,COARSESTEERING,Coarse Precision (Steering)
+130,FREEWHEELING,Position Lost
+140,FINEADJUSTING,Approaching Fine Precision
+160,FINE,Fine Precision
+170,FINEBACKUPSTEERING,Fine Precision (Backup Steering)
+180,FINESTEERING,Fine Precision (Steering)
+200,SATTIME,Satellite Time
